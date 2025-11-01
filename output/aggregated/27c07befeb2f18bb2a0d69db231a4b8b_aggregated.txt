@@ -1,0 +1,44 @@
+============================================================
+Video Analysis Results
+============================================================
+
+Video Name: 27c07befeb2f18bb2a0d69db231a4b8b
+Processed At: 2025-11-01T19:34:53.859919
+
+============================================================
+AI SUMMARY (Gemini 2.5 Flash)
+============================================================
+Dưới đây là tóm tắt phân tích video TikTok:
+
+**Tóm tắt ngắn gọn video nói về gì (2-3 câu):**
+Video TikTok của kênh @dinhlucsoccer đang quảng bá một chương trình livestream bán hàng với nhiều ưu đãi và voucher hấp dẫn. Người xem được khuyến khích tham gia livestream để săn deal giảm giá sâu cho các sản phẩm, đặc biệt có một sự kiện lớn vào lúc 21h ngày 18.
+
+**Thông tin chính hoặc thông điệp chính:**
+Thông điệp chính là mời gọi người xem tham gia các buổi livestream của @dinhlucsoccer để nhận voucher và mua sắm các sản phẩm với giá giảm sâu. Chương trình đã bắt đầu từ ngày 24 và có một sự kiện livestream đặc biệt vào lúc 21h ngày 18 mà người xem cần đăng ký tham gia.
+
+**Sản phẩm hoặc mặt hàng được đề cập/hiển thị:**
+Các sản phẩm được đề cập bao gồm "phú mềm 10", cáp/phụ kiện hàng Việt Nam (như "dây hàng Việt Nam"), "vô mềm 4" và một số phụ kiện khác. Ngoài ra, sách (book) cũng được phát hiện trong video.
+
+**Các chi tiết quan trọng khác:**
+*   Chương trình ưu đãi đã bắt đầu từ ngày 24.
+*   Nhiều voucher đang có sẵn và được bán rất mạnh trên live.
+*   Người xem được nhắc nhở đăng ký và tham gia livestream vào lúc 21h ngày 18 để không bỏ lỡ các deal hấp dẫn.
+*   Người dẫn chương trình đang live (thông qua tín hiệu đèn nhấp nháy).
+
+------------------------------------------------------------
+TEXT ON VIDEO (OCR)
+------------------------------------------------------------
+TikTok @dinhlucsoccer 20 2L37 JINHLỤC SOCCER NGÀV 25 OAL 20 2L3 ĐINHLIIT 24 TikTok dinhlucsoccer VOUCHER TOUCHER VOU VOUCHER )A 20 2L3 ER ĐINHLỤC SOCCER TikTok dinhlucsoccer VOUCHER VOUCHER OAL 20 2L37 DINHLỤC SOCCER TikTok dinhlucsoccer OAL MHLỤC SOCCER TikTok dinhlucsoccer 2L31 20 2L59 TikTok dinhlucsoccer @INHLỤC SOCCER DAL 20 2L31 ĐINHLỤC SOCCER j TikTok dinhlucsoccer
+
+------------------------------------------------------------
+WHISPER CONTENT (Speech Transcription)
+------------------------------------------------------------
+2 năm thì là ngày xe vui tháng, nhưng mình đi giữ xúc cơ đã bắt đầu chạy chương trình cho anh em kể từ ngày 20 tư rồi Anh em thấy a bắt à của mình ở đây nó đang nhấp nháy đó không? Tức là mình đang lai rồi, đã có rất nhiều vưu cho nó nòng mái và nổ cực kỳ mạnh trong lai rồi Anh em vào ngày trong lai để còn săn phân cung 6 phú mềm 10 Các môi hai phê vô vô nông, cấp viên bản dây hàng Việt Nam và kể cả là vâp o các phú mềm 10 nhất thì cũng đã về hàng và được xeo rất sâu trong lai rồi Bảo hôm nay trong lai để còn săn dài đi và đừng quên đang khí sáng kích sự kiện lai vào lúc 21 rở đây em ngày 18 người Bắt vô mềm 4 ná cà đồng mềm 1 xếp vào đầu đồng bỏ bán Anh em hiểu đang khí sáng sự kiện, bảo hôm nay trong lai để còn săn dài gần nha
+
+------------------------------------------------------------
+DETECTED OBJECTS
+------------------------------------------------------------
+All Objects: book, person
+
+Products Found: book
+
