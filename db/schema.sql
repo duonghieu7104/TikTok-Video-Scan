@@ -53,7 +53,7 @@ CREATE TABLE IF NOT EXISTS transcript_segments (
     id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
     transcript_id UUID NOT NULL REFERENCES transcripts(id) ON DELETE CASCADE,
     start REAL,
-    end REAL,
+    "end" REAL,
     text TEXT,
     created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
 );
