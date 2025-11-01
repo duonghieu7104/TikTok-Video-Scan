@@ -64,6 +64,8 @@ venv\Scripts\activate  # Windows
 ```bash
 pip install -r requirements_local.txt
 ```
+<img width="1897" height="741" alt="image" src="https://github.com/user-attachments/assets/9b164417-4b81-4f85-bed0-b75ca1f5741b" />
+
 
 **Lưu ý:** Lần đầu chạy sẽ tự động tải xuống các models:
 - Whisper model (~74MB cho base model)
@@ -77,12 +79,16 @@ pip install -r requirements_local.txt
 ```bash
 cp .env.example .env
 ```
+<img width="1890" height="463" alt="image" src="https://github.com/user-attachments/assets/1457f557-08c7-4456-8a6c-fe5393a0acba" />
+
 
 Sau đó chỉnh sửa `.env` và thêm Gemini API key:
 
 ```
 GEMINI_API_KEY=your_gemini_api_key_here
 ```
+<img width="1901" height="168" alt="image" src="https://github.com/user-attachments/assets/92273ed3-814a-4915-9bb6-99ef09a287ce" />
+
 
 Lấy API key tại: https://aistudio.google.com/app/apikey
 
@@ -103,17 +109,25 @@ cp /path/to/your/videos/*.mp4 data/
 ```bash
 python demo_whisper_local.py
 ```
+<img width="1888" height="715" alt="image" src="https://github.com/user-attachments/assets/d0556b43-cfb0-4075-9f90-ae9f5a0ced01" />
+
 
 **Output:** `./output/whisper/`
 - `{video_name}_transcript.json` - Transcript đầy đủ với segments
 - `{video_name}_transcript.txt` - Transcript dạng text
 - `{video_name}_segments.txt` - Segments với timestamps
 
+<img width="1816" height="663" alt="image" src="https://github.com/user-attachments/assets/ea13d95a-5cfc-400d-aba5-b6dd7397174f" />
+
+
 #### Demo 2: Nhận diện chữ trên video (OCR)
 
 ```bash
 python demo_ocr_local.py
 ```
+
+<img width="1837" height="461" alt="image" src="https://github.com/user-attachments/assets/d1d27d57-3ba3-4242-933d-9d9fb9f44411" />
+
 
 **Output:** `./output/ocr/`
 - `{video_name}_ocr.json` - Kết quả OCR đầy đủ
@@ -125,6 +139,8 @@ python demo_ocr_local.py
 ```bash
 python demo_detector_local.py
 ```
+<img width="1877" height="731" alt="image" src="https://github.com/user-attachments/assets/6c977a41-cea6-4859-a17c-bda538414481" />
+
 
 **Output:** `./output/detector/`
 - `{video_name}_detections.json` - Kết quả phát hiện đầy đủ
@@ -135,6 +151,8 @@ python demo_detector_local.py
 ```bash
 python demo_aggregate_results.py
 ```
+<img width="1885" height="505" alt="image" src="https://github.com/user-attachments/assets/6b62657a-64c3-4aec-9801-e16e9a663847" />
+
 
 **Output:** `./output/aggregated/`
 - `{video_name}_aggregated.json` - Dữ liệu tổng hợp dạng JSON
@@ -167,6 +185,7 @@ output/
 
 ### File tổng hợp (`aggregated.txt`):
 
+<img width="1535" height="578" alt="image" src="https://github.com/user-attachments/assets/b13a33ac-acf3-468f-8faf-84697e5ddc73" />
 
 
 ## Cấu hình nâng cao
