@@ -1,0 +1,1445 @@
+{
+  "video_file": "data/27c07befeb2f18bb2a0d69db231a4b8b.mp4",
+  "video_name": "27c07befeb2f18bb2a0d69db231a4b8b",
+  "total_frames": 7,
+  "frames_with_text": 7,
+  "all_text": "[0.00s] 151\nTikTok\n@dinhlucsoccer\n20\n2L37\nJINHLỤC\nSOCCER\nNGÀV 25\n\n[5.00s] 151\nOAL\n20\n2L3\nĐINHLIIT\n24\nTikTok\ndinhlucsoccer\n\n[10.00s] JCHER\nVOUCHER\nTOUCHER\nVOU\nVOUCHER\n)A\n20\n2L3\nER\nĐINHLỤC\nSOCCER\nTikTok\ndinhlucsoccer\nVOUCHER\nVOUCHER\n\n[15.00s] 157\nOAL\n20\n2L37\nDINHLỤC\nSOCCER\nTikTok\ndinhlucsoccer\n\n[20.00s] 915\nOAL\nMHLỤC\nSOCCER\nTikTok\ndinhlucsoccer\n2L31\n\n[25.00s] 151\n20\n2L59\nTikTok\ndinhlucsoccer\n@INHLỤC\nSOCCER\n\n[30.00s] 151\nDAL\n20\n2L31\nĐINHLỤC\nSOCCER\nj TikTok\ndinhlucsoccer",
+  "frame_results": [
+    {
+      "frame_number": 0,
+      "timestamp": 0.0,
+      "filename": "frame_0000_0.00s.jpg",
+      "path": "./output/ocr/27c07befeb2f18bb2a0d69db231a4b8b_frames/frame_0000_0.00s.jpg",
+      "ocr_text": "151\nTikTok\n@dinhlucsoccer\n20\n2L37\nJINHLỤC\nSOCCER\nNGÀV 25",
+      "ocr_data": {
+        "text": "151\nTikTok\n@dinhlucsoccer\n20\n2L37\nJINHLỤC\nSOCCER\nNGÀV 25",
+        "words": [
+          {
+            "text": "151",
+            "confidence": 0.38170675750429767,
+            "bbox": [
+              [
+                0,
+                208
+              ],
+              [
+                202,
+                208
+              ],
+              [
+                202,
+                356
+              ],
+              [
+                0,
+                356
+              ]
+            ]
+          },
+          {
+            "text": "TikTok",
+            "confidence": 0.999745805056765,
+            "bbox": [
+              [
+                58,
+                478
+              ],
+              [
+                154,
+                478
+              ],
+              [
+                154,
+                510
+              ],
+              [
+                58,
+                510
+              ]
+            ]
+          },
+          {
+            "text": "@dinhlucsoccer",
+            "confidence": 0.9889285028958451,
+            "bbox": [
+              [
+                9,
+                514
+              ],
+              [
+                174,
+                514
+              ],
+              [
+                174,
+                543
+              ],
+              [
+                9,
+                543
+              ]
+            ]
+          },
+          {
+            "text": "20",
+            "confidence": 0.9999526272709324,
+            "bbox": [
+              [
+                208,
+                540
+              ],
+              [
+                266,
+                540
+              ],
+              [
+                266,
+                590
+              ],
+              [
+                208,
+                590
+              ]
+            ]
+          },
+          {
+            "text": "2L37",
+            "confidence": 0.4272565543651581,
+            "bbox": [
+              [
+                334,
+                554
+              ],
+              [
+                392,
+                554
+              ],
+              [
+                392,
+                582
+              ],
+              [
+                334,
+                582
+              ]
+            ]
+          },
+          {
+            "text": "JINHLỤC",
+            "confidence": 0.9407841350738924,
+            "bbox": [
+              [
+                230,
+                610
+              ],
+              [
+                373,
+                610
+              ],
+              [
+                373,
+                655
+              ],
+              [
+                230,
+                655
+              ]
+            ]
+          },
+          {
+            "text": "SOCCER",
+            "confidence": 0.9994998699131004,
+            "bbox": [
+              [
+                237,
+                651
+              ],
+              [
+                369,
+                651
+              ],
+              [
+                369,
+                695
+              ],
+              [
+                237,
+                695
+              ]
+            ]
+          },
+          {
+            "text": "NGÀV 25",
+            "confidence": 0.5632341956647487,
+            "bbox": [
+              [
+                185,
+                687
+              ],
+              [
+                393,
+                687
+              ],
+              [
+                393,
+                752
+              ],
+              [
+                185,
+                752
+              ]
+            ]
+          }
+        ],
+        "total_detections": 8
+      }
+    },
+    {
+      "frame_number": 150,
+      "timestamp": 5.0,
+      "filename": "frame_0001_5.00s.jpg",
+      "path": "./output/ocr/27c07befeb2f18bb2a0d69db231a4b8b_frames/frame_0001_5.00s.jpg",
+      "ocr_text": "151\nOAL\n20\n2L3\nĐINHLIIT\n24\nTikTok\ndinhlucsoccer",
+      "ocr_data": {
+        "text": "151\nOAL\n20\n2L3\nĐINHLIIT\n24\nTikTok\ndinhlucsoccer",
+        "words": [
+          {
+            "text": "151",
+            "confidence": 0.7169316010692725,
+            "bbox": [
+              [
+                0,
+                196
+              ],
+              [
+                232,
+                196
+              ],
+              [
+                232,
+                342
+              ],
+              [
+                0,
+                342
+              ]
+            ]
+          },
+          {
+            "text": "OAL",
+            "confidence": 0.8804594874382019,
+            "bbox": [
+              [
+                0,
+                530
+              ],
+              [
+                102,
+                530
+              ],
+              [
+                102,
+                586
+              ],
+              [
+                0,
+                586
+              ]
+            ]
+          },
+          {
+            "text": "20",
+            "confidence": 0.9999455467059719,
+            "bbox": [
+              [
+                222,
+                520
+              ],
+              [
+                282,
+                520
+              ],
+              [
+                282,
+                572
+              ],
+              [
+                222,
+                572
+              ]
+            ]
+          },
+          {
+            "text": "2L3",
+            "confidence": 0.2994987311303471,
+            "bbox": [
+              [
+                346,
+                540
+              ],
+              [
+                408,
+                540
+              ],
+              [
+                408,
+                568
+              ],
+              [
+                346,
+                568
+              ]
+            ]
+          },
+          {
+            "text": "ĐINHLIIT",
+            "confidence": 0.45184990692328436,
+            "bbox": [
+              [
+                236,
+                590
+              ],
+              [
+                386,
+                590
+              ],
+              [
+                386,
+                638
+              ],
+              [
+                236,
+                638
+              ]
+            ]
+          },
+          {
+            "text": "24",
+            "confidence": 0.9998066357350889,
+            "bbox": [
+              [
+                187,
+                637
+              ],
+              [
+                387,
+                637
+              ],
+              [
+                387,
+                793
+              ],
+              [
+                187,
+                793
+              ]
+            ]
+          },
+          {
+            "text": "TikTok",
+            "confidence": 0.9993517571490286,
+            "bbox": [
+              [
+                465,
+                719
+              ],
+              [
+                565,
+                719
+              ],
+              [
+                565,
+                755
+              ],
+              [
+                465,
+                755
+              ]
+            ]
+          },
+          {
+            "text": "dinhlucsoccer",
+            "confidence": 0.9998405614176361,
+            "bbox": [
+              [
+                422,
+                760
+              ],
+              [
+                566,
+                760
+              ],
+              [
+                566,
+                784
+              ],
+              [
+                422,
+                784
+              ]
+            ]
+          }
+        ],
+        "total_detections": 8
+      }
+    },
+    {
+      "frame_number": 300,
+      "timestamp": 10.0,
+      "filename": "frame_0002_10.00s.jpg",
+      "path": "./output/ocr/27c07befeb2f18bb2a0d69db231a4b8b_frames/frame_0002_10.00s.jpg",
+      "ocr_text": "JCHER\nVOUCHER\nTOUCHER\nVOU\nVOUCHER\n)A\n20\n2L3\nER\nĐINHLỤC\nSOCCER\nTikTok\ndinhlucsoccer\nVOUCHER\nVOUCHER",
+      "ocr_data": {
+        "text": "JCHER\nVOUCHER\nTOUCHER\nVOU\nVOUCHER\n)A\n20\n2L3\nER\nĐINHLỤC\nSOCCER\nTikTok\ndinhlucsoccer\nVOUCHER\nVOUCHER",
+        "words": [
+          {
+            "text": "JCHER",
+            "confidence": 0.7569717563402302,
+            "bbox": [
+              [
+                0,
+                0
+              ],
+              [
+                135,
+                0
+              ],
+              [
+                135,
+                57
+              ],
+              [
+                0,
+                57
+              ]
+            ]
+          },
+          {
+            "text": "VOUCHER",
+            "confidence": 0.9799784101239112,
+            "bbox": [
+              [
+                252,
+                117
+              ],
+              [
+                478,
+                117
+              ],
+              [
+                478,
+                177
+              ],
+              [
+                252,
+                177
+              ]
+            ]
+          },
+          {
+            "text": "TOUCHER",
+            "confidence": 0.6116462453306893,
+            "bbox": [
+              [
+                0,
+                231
+              ],
+              [
+                107,
+                231
+              ],
+              [
+                107,
+                267
+              ],
+              [
+                0,
+                267
+              ]
+            ]
+          },
+          {
+            "text": "VOU",
+            "confidence": 0.9011627116989378,
+            "bbox": [
+              [
+                423,
+                331
+              ],
+              [
+                576,
+                331
+              ],
+              [
+                576,
+                415
+              ],
+              [
+                423,
+                415
+              ]
+            ]
+          },
+          {
+            "text": "VOUCHER",
+            "confidence": 0.7328231438898334,
+            "bbox": [
+              [
+                130,
+                396
+              ],
+              [
+                426,
+                396
+              ],
+              [
+                426,
+                472
+              ],
+              [
+                130,
+                472
+              ]
+            ]
+          },
+          {
+            "text": ")A",
+            "confidence": 0.11967678574150895,
+            "bbox": [
+              [
+                0,
+                522
+              ],
+              [
+                50,
+                522
+              ],
+              [
+                50,
+                576
+              ],
+              [
+                0,
+                576
+              ]
+            ]
+          },
+          {
+            "text": "20",
+            "confidence": 0.9998948030868257,
+            "bbox": [
+              [
+                192,
+                516
+              ],
+              [
+                252,
+                516
+              ],
+              [
+                252,
+                568
+              ],
+              [
+                192,
+                568
+              ]
+            ]
+          },
+          {
+            "text": "2L3",
+            "confidence": 0.7410264262843281,
+            "bbox": [
+              [
+                322,
+                528
+              ],
+              [
+                382,
+                528
+              ],
+              [
+                382,
+                558
+              ],
+              [
+                322,
+                558
+              ]
+            ]
+          },
+          {
+            "text": "ER",
+            "confidence": 0.9386742045026732,
+            "bbox": [
+              [
+                0,
+                588
+              ],
+              [
+                78,
+                588
+              ],
+              [
+                78,
+                636
+              ],
+              [
+                0,
+                636
+              ]
+            ]
+          },
+          {
+            "text": "ĐINHLỤC",
+            "confidence": 0.5081430609338068,
+            "bbox": [
+              [
+                211,
+                587
+              ],
+              [
+                367,
+                587
+              ],
+              [
+                367,
+                631
+              ],
+              [
+                211,
+                631
+              ]
+            ]
+          },
+          {
+            "text": "SOCCER",
+            "confidence": 0.7231618695687129,
+            "bbox": [
+              [
+                225,
+                627
+              ],
+              [
+                363,
+                627
+              ],
+              [
+                363,
+                669
+              ],
+              [
+                225,
+                669
+              ]
+            ]
+          },
+          {
+            "text": "TikTok",
+            "confidence": 0.9997445396425808,
+            "bbox": [
+              [
+                465,
+                719
+              ],
+              [
+                565,
+                719
+              ],
+              [
+                565,
+                755
+              ],
+              [
+                465,
+                755
+              ]
+            ]
+          },
+          {
+            "text": "dinhlucsoccer",
+            "confidence": 0.9998590787667008,
+            "bbox": [
+              [
+                422,
+                760
+              ],
+              [
+                566,
+                760
+              ],
+              [
+                566,
+                784
+              ],
+              [
+                422,
+                784
+              ]
+            ]
+          },
+          {
+            "text": "VOUCHER",
+            "confidence": 0.9921826162465569,
+            "bbox": [
+              [
+                126,
+                800
+              ],
+              [
+                212,
+                800
+              ],
+              [
+                212,
+                826
+              ],
+              [
+                126,
+                826
+              ]
+            ]
+          },
+          {
+            "text": "VOUCHER",
+            "confidence": 0.999044646846346,
+            "bbox": [
+              [
+                396,
+                906
+              ],
+              [
+                576,
+                906
+              ],
+              [
+                576,
+                954
+              ],
+              [
+                396,
+                954
+              ]
+            ]
+          }
+        ],
+        "total_detections": 15
+      }
+    },
+    {
+      "frame_number": 450,
+      "timestamp": 15.0,
+      "filename": "frame_0003_15.00s.jpg",
+      "path": "./output/ocr/27c07befeb2f18bb2a0d69db231a4b8b_frames/frame_0003_15.00s.jpg",
+      "ocr_text": "157\nOAL\n20\n2L37\nDINHLỤC\nSOCCER\nTikTok\ndinhlucsoccer",
+      "ocr_data": {
+        "text": "157\nOAL\n20\n2L37\nDINHLỤC\nSOCCER\nTikTok\ndinhlucsoccer",
+        "words": [
+          {
+            "text": "157",
+            "confidence": 0.5765602256218333,
+            "bbox": [
+              [
+                0,
+                190
+              ],
+              [
+                222,
+                190
+              ],
+              [
+                222,
+                340
+              ],
+              [
+                0,
+                340
+              ]
+            ]
+          },
+          {
+            "text": "OAL",
+            "confidence": 0.49147721111349396,
+            "bbox": [
+              [
+                0,
+                528
+              ],
+              [
+                98,
+                528
+              ],
+              [
+                98,
+                582
+              ],
+              [
+                0,
+                582
+              ]
+            ]
+          },
+          {
+            "text": "20",
+            "confidence": 0.99989547741569,
+            "bbox": [
+              [
+                218,
+                510
+              ],
+              [
+                274,
+                510
+              ],
+              [
+                274,
+                558
+              ],
+              [
+                218,
+                558
+              ]
+            ]
+          },
+          {
+            "text": "2L37",
+            "confidence": 0.5706078410148621,
+            "bbox": [
+              [
+                344,
+                532
+              ],
+              [
+                414,
+                532
+              ],
+              [
+                414,
+                560
+              ],
+              [
+                344,
+                560
+              ]
+            ]
+          },
+          {
+            "text": "DINHLỤC",
+            "confidence": 0.609333345889352,
+            "bbox": [
+              [
+                226,
+                576
+              ],
+              [
+                388,
+                576
+              ],
+              [
+                388,
+                630
+              ],
+              [
+                226,
+                630
+              ]
+            ]
+          },
+          {
+            "text": "SOCCER",
+            "confidence": 0.7153459386353288,
+            "bbox": [
+              [
+                234,
+                610
+              ],
+              [
+                383,
+                610
+              ],
+              [
+                383,
+                671
+              ],
+              [
+                234,
+                671
+              ]
+            ]
+          },
+          {
+            "text": "TikTok",
+            "confidence": 0.9992880909943218,
+            "bbox": [
+              [
+                464,
+                718
+              ],
+              [
+                565,
+                718
+              ],
+              [
+                565,
+                756
+              ],
+              [
+                464,
+                756
+              ]
+            ]
+          },
+          {
+            "text": "dinhlucsoccer",
+            "confidence": 0.9998869865369531,
+            "bbox": [
+              [
+                422,
+                760
+              ],
+              [
+                566,
+                760
+              ],
+              [
+                566,
+                784
+              ],
+              [
+                422,
+                784
+              ]
+            ]
+          }
+        ],
+        "total_detections": 8
+      }
+    },
+    {
+      "frame_number": 600,
+      "timestamp": 20.0,
+      "filename": "frame_0004_20.00s.jpg",
+      "path": "./output/ocr/27c07befeb2f18bb2a0d69db231a4b8b_frames/frame_0004_20.00s.jpg",
+      "ocr_text": "915\nOAL\nMHLỤC\nSOCCER\nTikTok\ndinhlucsoccer\n2L31",
+      "ocr_data": {
+        "text": "915\nOAL\nMHLỤC\nSOCCER\nTikTok\ndinhlucsoccer\n2L31",
+        "words": [
+          {
+            "text": "915",
+            "confidence": 0.2402165216360458,
+            "bbox": [
+              [
+                0,
+                176
+              ],
+              [
+                230,
+                176
+              ],
+              [
+                230,
+                326
+              ],
+              [
+                0,
+                326
+              ]
+            ]
+          },
+          {
+            "text": "OAL",
+            "confidence": 0.7773380875587463,
+            "bbox": [
+              [
+                0,
+                514
+              ],
+              [
+                122,
+                514
+              ],
+              [
+                122,
+                570
+              ],
+              [
+                0,
+                570
+              ]
+            ]
+          },
+          {
+            "text": "MHLỤC",
+            "confidence": 0.26431665885047995,
+            "bbox": [
+              [
+                298,
+                577
+              ],
+              [
+                411,
+                577
+              ],
+              [
+                411,
+                625
+              ],
+              [
+                298,
+                625
+              ]
+            ]
+          },
+          {
+            "text": "SOCCER",
+            "confidence": 0.9907555204685133,
+            "bbox": [
+              [
+                281,
+                614
+              ],
+              [
+                403,
+                614
+              ],
+              [
+                403,
+                662
+              ],
+              [
+                281,
+                662
+              ]
+            ]
+          },
+          {
+            "text": "TikTok",
+            "confidence": 0.9998338708413982,
+            "bbox": [
+              [
+                466,
+                720
+              ],
+              [
+                564,
+                720
+              ],
+              [
+                564,
+                752
+              ],
+              [
+                466,
+                752
+              ]
+            ]
+          },
+          {
+            "text": "dinhlucsoccer",
+            "confidence": 0.9997822160925254,
+            "bbox": [
+              [
+                422,
+                760
+              ],
+              [
+                566,
+                760
+              ],
+              [
+                566,
+                784
+              ],
+              [
+                422,
+                784
+              ]
+            ]
+          },
+          {
+            "text": "2L31",
+            "confidence": 0.11355701088905334,
+            "bbox": [
+              [
+                361.5430712064641,
+                525.3775281716354
+              ],
+              [
+                421.54669072686227,
+                519.414324641765
+              ],
+              [
+                423.4569287935359,
+                548.6224718283646
+              ],
+              [
+                363.45330927313773,
+                555.585675358235
+              ]
+            ]
+          }
+        ],
+        "total_detections": 7
+      }
+    },
+    {
+      "frame_number": 750,
+      "timestamp": 25.0,
+      "filename": "frame_0005_25.00s.jpg",
+      "path": "./output/ocr/27c07befeb2f18bb2a0d69db231a4b8b_frames/frame_0005_25.00s.jpg",
+      "ocr_text": "151\n20\n2L59\nTikTok\ndinhlucsoccer\n@INHLỤC\nSOCCER",
+      "ocr_data": {
+        "text": "151\n20\n2L59\nTikTok\ndinhlucsoccer\n@INHLỤC\nSOCCER",
+        "words": [
+          {
+            "text": "151",
+            "confidence": 0.8047471501823407,
+            "bbox": [
+              [
+                0,
+                168
+              ],
+              [
+                234,
+                168
+              ],
+              [
+                234,
+                318
+              ],
+              [
+                0,
+                318
+              ]
+            ]
+          },
+          {
+            "text": "20",
+            "confidence": 0.9190667107947675,
+            "bbox": [
+              [
+                220,
+                478
+              ],
+              [
+                278,
+                478
+              ],
+              [
+                278,
+                530
+              ],
+              [
+                220,
+                530
+              ]
+            ]
+          },
+          {
+            "text": "2L59",
+            "confidence": 0.19828125834465027,
+            "bbox": [
+              [
+                344,
+                516
+              ],
+              [
+                406,
+                516
+              ],
+              [
+                406,
+                542
+              ],
+              [
+                344,
+                542
+              ]
+            ]
+          },
+          {
+            "text": "TikTok",
+            "confidence": 0.9996480750862317,
+            "bbox": [
+              [
+                465,
+                719
+              ],
+              [
+                565,
+                719
+              ],
+              [
+                565,
+                755
+              ],
+              [
+                465,
+                755
+              ]
+            ]
+          },
+          {
+            "text": "dinhlucsoccer",
+            "confidence": 0.7607555021131978,
+            "bbox": [
+              [
+                422,
+                760
+              ],
+              [
+                566,
+                760
+              ],
+              [
+                566,
+                784
+              ],
+              [
+                422,
+                784
+              ]
+            ]
+          },
+          {
+            "text": "@INHLỤC",
+            "confidence": 0.5051749297821315,
+            "bbox": [
+              [
+                232.1644588494623,
+                544.0703072118276
+              ],
+              [
+                385.95782117061486,
+                568.3519188012268
+              ],
+              [
+                376.83554115053767,
+                612.9296927881724
+              ],
+              [
+                223.04217882938516,
+                589.6480811987732
+              ]
+            ]
+          },
+          {
+            "text": "SOCCER",
+            "confidence": 0.2951922070303934,
+            "bbox": [
+              [
+                245.15046541746176,
+                583.0726994212782
+              ],
+              [
+                377.9435775211238,
+                606.25097310286
+              ],
+              [
+                367.84953458253824,
+                650.9273005787218
+              ],
+              [
+                236.05642247887616,
+                627.74902689714
+              ]
+            ]
+          }
+        ],
+        "total_detections": 7
+      }
+    },
+    {
+      "frame_number": 900,
+      "timestamp": 30.0,
+      "filename": "frame_0006_30.00s.jpg",
+      "path": "./output/ocr/27c07befeb2f18bb2a0d69db231a4b8b_frames/frame_0006_30.00s.jpg",
+      "ocr_text": "151\nDAL\n20\n2L31\nĐINHLỤC\nSOCCER\nj TikTok\ndinhlucsoccer",
+      "ocr_data": {
+        "text": "151\nDAL\n20\n2L31\nĐINHLỤC\nSOCCER\nj TikTok\ndinhlucsoccer",
+        "words": [
+          {
+            "text": "151",
+            "confidence": 0.4210597101541916,
+            "bbox": [
+              [
+                0,
+                175
+              ],
+              [
+                207,
+                175
+              ],
+              [
+                207,
+                315
+              ],
+              [
+                0,
+                315
+              ]
+            ]
+          },
+          {
+            "text": "DAL",
+            "confidence": 0.7551705233263265,
+            "bbox": [
+              [
+                0,
+                506
+              ],
+              [
+                92,
+                506
+              ],
+              [
+                92,
+                562
+              ],
+              [
+                0,
+                562
+              ]
+            ]
+          },
+          {
+            "text": "20",
+            "confidence": 0.9998352097994812,
+            "bbox": [
+              [
+                198,
+                502
+              ],
+              [
+                258,
+                502
+              ],
+              [
+                258,
+                552
+              ],
+              [
+                198,
+                552
+              ]
+            ]
+          },
+          {
+            "text": "2L31",
+            "confidence": 0.3034352958202362,
+            "bbox": [
+              [
+                323,
+                509
+              ],
+              [
+                390,
+                509
+              ],
+              [
+                390,
+                545
+              ],
+              [
+                323,
+                545
+              ]
+            ]
+          },
+          {
+            "text": "ĐINHLỤC",
+            "confidence": 0.7949258114670901,
+            "bbox": [
+              [
+                217,
+                571
+              ],
+              [
+                371,
+                571
+              ],
+              [
+                371,
+                615
+              ],
+              [
+                217,
+                615
+              ]
+            ]
+          },
+          {
+            "text": "SOCCER",
+            "confidence": 0.9975760639789082,
+            "bbox": [
+              [
+                233,
+                611
+              ],
+              [
+                367,
+                611
+              ],
+              [
+                367,
+                653
+              ],
+              [
+                233,
+                653
+              ]
+            ]
+          },
+          {
+            "text": "j TikTok",
+            "confidence": 0.36798960223051125,
+            "bbox": [
+              [
+                425,
+                715
+              ],
+              [
+                565,
+                715
+              ],
+              [
+                565,
+                757
+              ],
+              [
+                425,
+                757
+              ]
+            ]
+          },
+          {
+            "text": "dinhlucsoccer",
+            "confidence": 0.7115338246599099,
+            "bbox": [
+              [
+                422,
+                760
+              ],
+              [
+                566,
+                760
+              ],
+              [
+                566,
+                784
+              ],
+              [
+                422,
+                784
+              ]
+            ]
+          }
+        ],
+        "total_detections": 8
+      }
+    }
+  ],
+  "processed_at": "2025-11-01T19:18:52.531446",
+  "ocr_engine": "easyocr",
+  "frame_interval": 5
+}

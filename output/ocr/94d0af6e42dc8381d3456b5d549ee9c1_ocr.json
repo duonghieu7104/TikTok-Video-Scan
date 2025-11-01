@@ -1,0 +1,337 @@
+{
+  "video_file": "data/94d0af6e42dc8381d3456b5d549ee9c1.mp4",
+  "video_name": "94d0af6e42dc8381d3456b5d549ee9c1",
+  "total_frames": 3,
+  "frames_with_text": 3,
+  "all_text": "[0.00s] TikTok\n@userg4 GHTE\nMở Ví Trả Sau Trên MoMo\nPhídịch vụ chỉ3OKcho các tháng có giao dịch\n\n[4.97s] Không dung\nKhông tôn phi\nMở Ví Trả Sau Trên MoMo\nPhídịch vụ chỉ3OKcho các tháng có giao dịch\nTikTok\n@user843671377\n\n[9.95s] À\nTikTok\n@user843671377",
+  "frame_results": [
+    {
+      "frame_number": 0,
+      "timestamp": 0.0,
+      "filename": "frame_0000_0.00s.jpg",
+      "path": "./output/ocr/94d0af6e42dc8381d3456b5d549ee9c1_frames/frame_0000_0.00s.jpg",
+      "ocr_text": "TikTok\n@userg4 GHTE\nMở Ví Trả Sau Trên MoMo\nPhídịch vụ chỉ3OKcho các tháng có giao dịch",
+      "ocr_data": {
+        "text": "TikTok\n@userg4 GHTE\nMở Ví Trả Sau Trên MoMo\nPhídịch vụ chỉ3OKcho các tháng có giao dịch",
+        "words": [
+          {
+            "text": "TikTok",
+            "confidence": 0.9875813890667322,
+            "bbox": [
+              [
+                4,
+                480
+              ],
+              [
+                92,
+                480
+              ],
+              [
+                92,
+                510
+              ],
+              [
+                4,
+                510
+              ]
+            ]
+          },
+          {
+            "text": "@userg4 GHTE",
+            "confidence": 0.04215508018505879,
+            "bbox": [
+              [
+                4,
+                510
+              ],
+              [
+                164,
+                510
+              ],
+              [
+                164,
+                536
+              ],
+              [
+                4,
+                536
+              ]
+            ]
+          },
+          {
+            "text": "Mở Ví Trả Sau Trên MoMo",
+            "confidence": 0.7762544845495196,
+            "bbox": [
+              [
+                58,
+                568
+              ],
+              [
+                274,
+                568
+              ],
+              [
+                274,
+                592
+              ],
+              [
+                58,
+                592
+              ]
+            ]
+          },
+          {
+            "text": "Phídịch vụ chỉ3OKcho các tháng có giao dịch",
+            "confidence": 0.871447123524478,
+            "bbox": [
+              [
+                56,
+                587
+              ],
+              [
+                432,
+                587
+              ],
+              [
+                432,
+                618
+              ],
+              [
+                56,
+                618
+              ]
+            ]
+          }
+        ],
+        "total_detections": 4
+      }
+    },
+    {
+      "frame_number": 131,
+      "timestamp": 4.974721423208191,
+      "filename": "frame_0001_4.97s.jpg",
+      "path": "./output/ocr/94d0af6e42dc8381d3456b5d549ee9c1_frames/frame_0001_4.97s.jpg",
+      "ocr_text": "Không dung\nKhông tôn phi\nMở Ví Trả Sau Trên MoMo\nPhídịch vụ chỉ3OKcho các tháng có giao dịch\nTikTok\n@user843671377",
+      "ocr_data": {
+        "text": "Không dung\nKhông tôn phi\nMở Ví Trả Sau Trên MoMo\nPhídịch vụ chỉ3OKcho các tháng có giao dịch\nTikTok\n@user843671377",
+        "words": [
+          {
+            "text": "Không dung",
+            "confidence": 0.6594781199195341,
+            "bbox": [
+              [
+                327,
+                389
+              ],
+              [
+                411,
+                389
+              ],
+              [
+                411,
+                405
+              ],
+              [
+                327,
+                405
+              ]
+            ]
+          },
+          {
+            "text": "Không tôn phi",
+            "confidence": 0.41211175627537944,
+            "bbox": [
+              [
+                327,
+                405
+              ],
+              [
+                425,
+                405
+              ],
+              [
+                425,
+                421
+              ],
+              [
+                327,
+                421
+              ]
+            ]
+          },
+          {
+            "text": "Mở Ví Trả Sau Trên MoMo",
+            "confidence": 0.9743302982432559,
+            "bbox": [
+              [
+                58,
+                568
+              ],
+              [
+                274,
+                568
+              ],
+              [
+                274,
+                592
+              ],
+              [
+                58,
+                592
+              ]
+            ]
+          },
+          {
+            "text": "Phídịch vụ chỉ3OKcho các tháng có giao dịch",
+            "confidence": 0.8440317872214108,
+            "bbox": [
+              [
+                56,
+                587
+              ],
+              [
+                432,
+                587
+              ],
+              [
+                432,
+                618
+              ],
+              [
+                56,
+                618
+              ]
+            ]
+          },
+          {
+            "text": "TikTok",
+            "confidence": 0.999817154366508,
+            "bbox": [
+              [
+                446,
+                756
+              ],
+              [
+                530,
+                756
+              ],
+              [
+                530,
+                784
+              ],
+              [
+                446,
+                784
+              ]
+            ]
+          },
+          {
+            "text": "@user843671377",
+            "confidence": 0.8734789638879501,
+            "bbox": [
+              [
+                369,
+                784
+              ],
+              [
+                530,
+                784
+              ],
+              [
+                530,
+                812
+              ],
+              [
+                369,
+                812
+              ]
+            ]
+          }
+        ],
+        "total_detections": 6
+      }
+    },
+    {
+      "frame_number": 262,
+      "timestamp": 9.949442846416382,
+      "filename": "frame_0002_9.95s.jpg",
+      "path": "./output/ocr/94d0af6e42dc8381d3456b5d549ee9c1_frames/frame_0002_9.95s.jpg",
+      "ocr_text": "À\nTikTok\n@user843671377",
+      "ocr_data": {
+        "text": "À\nTikTok\n@user843671377",
+        "words": [
+          {
+            "text": "À",
+            "confidence": 0.06482963741775283,
+            "bbox": [
+              [
+                225,
+                311
+              ],
+              [
+                315,
+                311
+              ],
+              [
+                315,
+                409
+              ],
+              [
+                225,
+                409
+              ]
+            ]
+          },
+          {
+            "text": "TikTok",
+            "confidence": 0.9331761531843408,
+            "bbox": [
+              [
+                191,
+                408
+              ],
+              [
+                346,
+                408
+              ],
+              [
+                346,
+                461
+              ],
+              [
+                191,
+                461
+              ]
+            ]
+          },
+          {
+            "text": "@user843671377",
+            "confidence": 0.8851547227730164,
+            "bbox": [
+              [
+                184,
+                538
+              ],
+              [
+                354,
+                538
+              ],
+              [
+                354,
+                562
+              ],
+              [
+                184,
+                562
+              ]
+            ]
+          }
+        ],
+        "total_detections": 3
+      }
+    }
+  ],
+  "processed_at": "2025-11-01T19:18:57.436264",
+  "ocr_engine": "easyocr",
+  "frame_interval": 5
+}
