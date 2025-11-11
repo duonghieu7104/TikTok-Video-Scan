@@ -1,5 +1,7 @@
 # TikTok Video Scan System
 
+Link  video demo: https://youtu.be/lDddjZrvwNI
+
 Hệ thống phân tích video TikTok tự động sử dụng AI: Trích xuất lời thoại (Whisper), nhận diện chữ (OCR), và phát hiện sản phẩm (Object Detection).
 
 <img width="1542" height="562" alt="image" src="https://github.com/user-attachments/assets/b7ca26f2-5a94-4ced-b546-07e5d60b4647" />
